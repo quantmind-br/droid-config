@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: droid-config
+Version: 0.1.0
+Summary: GUI editor for ~/.factory/config.json
+Author: Gemini CLI
+Requires-Python: >=3.6
+Requires-Dist: ttkbootstrap
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
