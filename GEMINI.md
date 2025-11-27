@@ -9,7 +9,7 @@ The specific target file is `~/.factory/config.json`. The tool allows users to c
 ## Tech Stack
 
 *   **Language:** Python 3.6+
-*   **GUI Framework:** `tkinter` with `ttkbootstrap` (Modern Flat Themes)
+*   **GUI Framework:** `CustomTkinter` (Modern, Rounded UI)
 *   **Data Format:** JSON
 *   **Packaging:** `setuptools`
 

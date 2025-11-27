@@ -4,7 +4,7 @@ Version: 0.1.0
 Summary: GUI editor for ~/.factory/config.json
 Author: Gemini CLI
 Requires-Python: >=3.6
-Requires-Dist: ttkbootstrap
+Requires-Dist: customtkinter
 Dynamic: author
 Dynamic: requires-dist
 Dynamic: requires-python
