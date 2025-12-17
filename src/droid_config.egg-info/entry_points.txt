@@ -1,2 +1,0 @@
-[console_scripts]
-droid-config = droid_config.main:main
